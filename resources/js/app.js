@@ -1,2 +1,2 @@
 require('./bootstrap');
-require('/portfolio');
+require('./portfolio');
