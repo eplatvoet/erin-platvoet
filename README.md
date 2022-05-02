@@ -1,3 +1,38 @@
+# Erin Platvoet Laravel Portfolio
+
+## Description
+This is the *Laravel* portfolio of Erin Platvoet.
+
+The 'Home' page (landing page) is essentially a single page portfolio, however, there is definitely opportunity to expand this site to more pages. (i.e., '/erin' dives into some personal interests outside of web development!)
+
+## Installation
+To ensure proper local build, please make sure you are at the following versions:
+
+- Node: *v12.18.3*
+- PHP: *7.3*
+
+1. Create `.env` file based off example
+2. Run `npm install` out of directory
+3. Once `npm install` complete, run `composer install`
+4. Once `composer install` complete, run `php artisan key:generate`
+    - You should now see the `APP_KEY` field populated in your `.env` file
+5. Run `npm run dev`
+6. Go to 'public' folder & open new terminal and run `php -S localhost:8000`
+    - *Please note: you don't necessarily have to use 8000*
+
+## Technologies
+- Laravel
+- JavaScript
+- Sass
+
+## Links
+- [Deployed]()
+- [Repo](https://github.com/eplatvoet/erin-platvoet)
+
+*** 
+***
+***
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
