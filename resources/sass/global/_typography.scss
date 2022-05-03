@@ -6,17 +6,29 @@ h1{
 }
 h2{
     margin:0;
+    color:#c83f49;
+    font-family: 'Oswald', sans-serif;
+    font-weight:700;
+    font-size: 1.5rem;
 }
 h3{
     margin:0;
+    text-align:center;
+    color:#c83f49;
+    font-family: 'Oswald', sans-serif;
+    font-weight:400;
+    font-size:1.25rem;
+    line-height: 1.5rem;
 }
 p{
     margin:0;
     font-size:1rem;
     line-height:1.125rem;
-}
-span.cn{
+    color: #000000;
     font-family: 'Comic Neue', cursive;
+}
+span.handlee{
+    font-family: 'Handlee', cursive;
 }
 
 
