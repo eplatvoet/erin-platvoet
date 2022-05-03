@@ -19,6 +19,7 @@ To ensure proper local build, please make sure you are at the following versions
 5. Run `npm run dev`
 6. Go to 'public' folder & open new terminal and run `php -S localhost:8000`
     - *Please note: you don't necessarily have to use 8000*
+7. Go to browser end go to `localhost:8000`
 
 ## Technologies
 - Laravel
