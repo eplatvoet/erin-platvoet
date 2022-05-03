@@ -1,4 +1,4 @@
-<div class="nav" id="nav">
+<div class="" id="nav">
     <div class="nav-wrapper">
 
         <div class="link-wrapper">
